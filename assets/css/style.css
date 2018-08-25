@@ -1,0 +1,28 @@
+h1 {
+    background-color: lemonchiffon;
+    padding: 10px;
+    color:orange;
+    text-align: center;
+}
+#paragraph{
+    background-color: lightseagreen;
+    color:white;
+    padding: 15px;
+    
+}
+img {
+    width:100px;
+    height:100px;
+    margin: 10px;
+    
+}
+
+#game {
+    background-color:lemonchiffon;
+    color:rgb(56, 126, 237);
+    top-margin: 20px;
+}
+
+#btn5, #btn6 {
+    padding: 20px;
+}
