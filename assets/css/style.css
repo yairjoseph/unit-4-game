@@ -29,3 +29,7 @@ img {
 #btn5, #btn6 {
     padding: 20px;
 }
+
+#game, #paragraph {
+    border-radius: 15px;
+}
